@@ -1,0 +1,58 @@
+{
+  "Aripa": {
+    "password": "Dian014?!",
+    "is_premium": true
+  },
+  "Dian": {
+    "password": "Dian014?!",
+    "is_premium": false
+  },
+  "saya": {
+    "password": "Dian014?!",
+    "is_premium": false
+  },
+  "ia": {
+    "password": "dian",
+    "is_premium": false
+  },
+  "ian": {
+    "password": "dia",
+    "is_premium": false
+  },
+  "o": {
+    "password": "p",
+    "is_premium": false
+  },
+  "k": {
+    "password": "l",
+    "is_premium": false
+  },
+  "kk": {
+    "password": "kk",
+    "is_premium": false
+  },
+  "kkk": {
+    "password": "kkk",
+    "is_premium": false
+  },
+  "nama": {
+    "password": "nama",
+    "is_premium": false
+  },
+  "i": {
+    "password": "i",
+    "is_premium": false
+  },
+  "ii": {
+    "password": "ii",
+    "is_premium": false
+  },
+  "kamu": {
+    "password": "kamu",
+    "is_premium": false
+  },
+  "aripa": {
+    "password": "aripa",
+    "is_premium": false
+  }
+}
